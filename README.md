@@ -24,22 +24,35 @@ Use different modes and Have fun with Python!
 
 Python Expert Mode (get assistance for Python)
 
-<img width="1884" height="1034" alt="image" src="https://github.com/user-attachments/assets/1b762d81-878e-4135-9640-207f53c79d3f" />
+
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/cda7fbdd-a81a-426c-a114-b84d058b75c1" />
+
 
 Python Doctor Mode (give your Python code and see General examination checkup report about your code, the code will be treated as a patient)
 
-<img width="1897" height="1022" alt="image" src="https://github.com/user-attachments/assets/f23d31a6-9cdd-4f53-8d03-14dd6ed3491f" />
+
+<img width="1914" height="1017" alt="image" src="https://github.com/user-attachments/assets/b7a971ae-9232-4f8f-94d1-05199eb168e3" />
+
+
 
 Python Mood Analyst (give your python code and it will tell your about your mood)
 
-<img width="1879" height="1015" alt="image" src="https://github.com/user-attachments/assets/47f41079-8c00-4c4d-a350-7aa9d63af84f" />
+
+<img width="1914" height="1021" alt="image" src="https://github.com/user-attachments/assets/430c0177-b814-4dce-aba9-26074e2e4da8" />
+
+
 
 Python Battle Mode (have a competition with Python, give your code first and it will give its own code and then announce the winner with report)
 
-<img width="1885" height="1015" alt="image" src="https://github.com/user-attachments/assets/207ae720-654a-4c30-a6d2-db3307b6c26c" />
+
+
+<img width="1915" height="1028" alt="image" src="https://github.com/user-attachments/assets/50dffe00-d32e-4fe3-87ec-568033741e29" />
+
 
 
 Python Piano Mode (learn the Python just like a Music :))
+
+
 
 <img width="1912" height="1020" alt="image" src="https://github.com/user-attachments/assets/56479d28-0796-4d1e-858d-c7f7e100722f" />
 
