@@ -25,20 +25,22 @@ Use different modes and Have fun with Python!
 Python Expert Mode (get assistance for Python)
 
 
-<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/cda7fbdd-a81a-426c-a114-b84d058b75c1" />
+<img width="1898" height="1017" alt="image" src="https://github.com/user-attachments/assets/35670821-aaee-43ee-a623-95cc1b5c6f34" />
 
 
 Python Doctor Mode (give your Python code and see General examination checkup report about your code, the code will be treated as a patient)
 
 
-<img width="1914" height="1017" alt="image" src="https://github.com/user-attachments/assets/b7a971ae-9232-4f8f-94d1-05199eb168e3" />
+<img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/09c46a25-cb07-42a0-8eec-18ef70fae08f" />
 
 
 
-Python Mood Analyst (give your python code and it will tell your about your mood)
+
+Python Mood Analyzer (give your python code and it will tell your about your mood)
 
 
-<img width="1914" height="1021" alt="image" src="https://github.com/user-attachments/assets/430c0177-b814-4dce-aba9-26074e2e4da8" />
+<img width="1902" height="1024" alt="image" src="https://github.com/user-attachments/assets/d0315d6b-2547-446c-856b-74209f7aebd8" />
+
 
 
 
