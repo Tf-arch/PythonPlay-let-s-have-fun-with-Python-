@@ -48,7 +48,7 @@ Python Battle Mode (have a competition with Python, give your code first and it 
 
 
 
-<img width="1915" height="1028" alt="image" src="https://github.com/user-attachments/assets/50dffe00-d32e-4fe3-87ec-568033741e29" />
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/3b1db167-b72c-4183-b009-62392183636a" />
 
 
 
