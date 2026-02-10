@@ -14,7 +14,13 @@ Steps to run PythonPlay on Windows
 
 <img width="1467" height="756" alt="image" src="https://github.com/user-attachments/assets/a310e191-0d5d-4aea-888f-1a672a99e1a5" />
 
+
+
+
 Use different modes and Have fun with Python!
+
+
+
 
 Python Expert Mode (get assistance for Python)
 
@@ -33,7 +39,7 @@ Python Battle Mode (have a competition with Python, give your code first and it 
 <img width="1885" height="1015" alt="image" src="https://github.com/user-attachments/assets/207ae720-654a-4c30-a6d2-db3307b6c26c" />
 
 
-Python Piano (learn the Python just like a Music :))
+Python Piano Mode (learn the Python just like a Music :))
 
 <img width="1912" height="1020" alt="image" src="https://github.com/user-attachments/assets/56479d28-0796-4d1e-858d-c7f7e100722f" />
 
