@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Aug 18 14:39:36 2025
+
+@author: User
+"""
+
+body { font-family: Arial, sans-serif; background: #f6f6f6; margin: 0; }
+#top-frame { padding: 10px; background: #f6f6f6; }
+#chat-area { background: #fff; padding: 15px; height: 70vh; overflow-y: auto; white-space: pre-wrap; }
+.user { background: #cce7ff; margin: 5px; padding: 8px; border-radius: 8px; }
+.bot { background: #f1f0f0; margin: 5px; padding: 8px; border-radius: 8px; }
+#input-frame { display: flex; padding: 10px; background: #f6f6f6
