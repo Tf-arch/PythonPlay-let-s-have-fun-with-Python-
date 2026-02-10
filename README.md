@@ -50,11 +50,12 @@ Python Battle Mode (have a competition with Python, give your code first and it 
 
 
 
-Python Piano Mode (learn the Python just like a Music :))
+Python Pianist Mode (learn the Python just like a Music :))
 
 
 
-<img width="1912" height="1020" alt="image" src="https://github.com/user-attachments/assets/56479d28-0796-4d1e-858d-c7f7e100722f" />
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/1add9f7f-330f-449a-819f-7b50469d1ae0" />
+
 
 
 
