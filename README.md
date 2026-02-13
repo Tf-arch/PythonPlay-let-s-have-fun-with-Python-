@@ -15,6 +15,12 @@ Steps to run PythonPlay on Windows
 <img width="1467" height="756" alt="image" src="https://github.com/user-attachments/assets/a310e191-0d5d-4aea-888f-1a672a99e1a5" />
 
 
+4) Open Browser and run localhost http://localhost:8000/
+
+<img width="1916" height="1089" alt="image" src="https://github.com/user-attachments/assets/ab0cea46-7af2-44a0-b3ba-2fba68804031" />
+
+
+
 
 
 Use different modes and Have fun with Python!
